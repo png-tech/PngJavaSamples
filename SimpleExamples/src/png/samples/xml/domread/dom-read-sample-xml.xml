@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<books>
+    <book id="1">
+        <title>Компьютерные сети</title>
+        <autor>Олифер</autor>
+    </book>
+    <book id="2">
+        <title>Вычислительные сети сети</title>
+        <autor>Кто-то ещё</autor>
+    </book>
+</books>
